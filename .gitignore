@@ -2,6 +2,8 @@ ANNvenv/
 
 *.pdf
 
+*.html
+
 courses/
 
 .ipynb_checkpoints/
