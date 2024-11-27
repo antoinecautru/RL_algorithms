@@ -1,0 +1,15 @@
+ANNvenv/ 
+
+courses/
+
+.ipynb_checkpoints/
+
+**/.ipynb_checkpoints/
+
+__pycache__/
+
+**/__pycache__/
+
+Miniproject_DQN/
+
+RLbook2020.pdf
